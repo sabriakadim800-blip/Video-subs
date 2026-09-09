@@ -1,4 +1,4 @@
-
+package com.skteam.subtitleburner
 
 import android.content.Intent
 import android.graphics.Color
